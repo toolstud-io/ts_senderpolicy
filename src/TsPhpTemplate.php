@@ -1,7 +1,7 @@
 <?php
-// Author: author_name (author_username, author@email.com)
-namespace package_namespace;
+// Author: Peter Forret (toolstud-io, peter@forret.com)
+namespace ToolstudIo;
 
-class class_name
+class TsSenderpolicy
 {
 }

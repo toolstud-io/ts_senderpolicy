@@ -1,17 +1,17 @@
 {
-    "name": "author_username/package_name",
+    "name": "toolstud-io/ts_senderpolicy",
     "version": "1.0.2",
-    "description": "package_description",
+    "description": "Retrieve and parse SendPolicy Framework (SPF) config for email domains",
     "keywords": [
-        "author_username",
-        "package_name"
+        "toolstud-io",
+        "ts_senderpolicy"
     ],
-    "homepage": "https://github.com/author_username/package_name",
+    "homepage": "https://github.com/toolstud-io/ts_senderpolicy",
     "license": "MIT",
     "authors": [
         {
-            "name": "author_name",
-            "email": "author@email.com",
+            "name": "Peter Forret",
+            "email": "peter@forret.com",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "package_namespace\\class_name\\": "src"
+            "ToolstudIo\\TsSenderpolicy\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "package_namespace\\class_name\\Tests\\": "tests"
+            "ToolstudIo\\TsSenderpolicy\\Tests\\": "tests"
         }
     },
     "scripts": {
